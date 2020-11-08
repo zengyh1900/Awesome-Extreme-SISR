@@ -22,6 +22,13 @@ A curated list of extreme single image super resolution.
 4. [Perceptual Extreme Super Resolution Network with Receptive Filed Block](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Shang_Perceptual_Extreme_Super-Resolution_Network_With_Receptive_Field_Block_CVPRW_2020_paper.html). Shang et al. @{OPPO-Research}. CVPRW2020. 
 5. [DeepSEE: Deep Disentangled Semantic Explorative Extreme Super-Resolution](https://arxiv.org/abs/2004.04433). Buhler et al. @{ETH}. ACCV Oral. [[project]](https://mcbuehler.github.io/DeepSEE/) [[code]](https://github.com/mcbuehler/DeepSEE)
 6. [Investigating Loss Functions for Extreme Super-Resolution](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Jo_Investigating_Loss_Functions_for_Extreme_Super-Resolution_CVPRW_2020_paper.pdf). Jo et al. @{Yonsei, Facebook}. CVPRW 2020. [[code]](https://github.com/kingsj0405/ciplab-NTIRE-2020)
-7. [FBRNN: feedback recurrent neural network for extreme image super-resolution](). Lee et al. @{Korea University, Army}. CVPRW 2020. 
+7. [FBRNN: feedback recurrent neural network for extreme image super-resolution](http://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Lee_FBRNN_Feedback_Recurrent_Neural_Network_for_Extreme_Image_Super-Resolution_CVPRW_2020_paper.html). Lee et al. @{Korea University, Army}. CVPRW 2020. 
+8. [Texture hallucination for Large-Factor Painting Super-Resolution](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520205.pdf). Zhang et al. @{Northeastern University, Adobe}. ECCV 2020. 
+
+
+
+## Classical deep models of SVSR
+
+## Extreme SVSR
 
 
