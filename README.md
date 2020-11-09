@@ -31,4 +31,8 @@ A curated list of extreme single image super resolution.
 
 ## Extreme SVSR
 
+1. [The Vid3oC and IntVID Datasets for Video Super Resolution and Quality Mapping](https://ieeexplore.ieee.org/document/9022610/). Kim et al. @{ETH}. ICCVW 2019. 
+2. [AIM 2019 Challenge on Video Extreme Super-Re solution: Methods and Results](https://ieeexplore.ieee.org/document/9022627/). Fuoli et al. ICCVW 2019.
+3. [AIM 2020 Challenge on Video Extreme Super-Re solution: Methods and Results](https://ieeexplore.ieee.org/document/9022215/). Fuoli et al. @{ETH}. ECCVW 2020. 
+
 
