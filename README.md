@@ -11,7 +11,15 @@ A curated list of extreme single image super resolution.
 
 ## Classical deep models of SISR 
 
-1. 
+1. [Learning a Deep Convolutional Network for Image Super-Resolution](https://link.springer.com/chapter/10.1007/978-3-319-10593-2_13). Dong et al. @{MSR, CUHK}. ECCV 2014. 
+2. [Accurate Image Super-Resolution Using Very Deep Convolutional Networks](https://arxiv.org/abs/1511.04587). Kim et al. @{SNU}. CVPR 2016. [[project]](https://cv.snu.ac.kr/research/VDSR/)
+3. [Enhanced Deep Residual Networks for Single Image Super-Resolution](http://arxiv.org/abs/1707.02921). Lim et al. @{SNU}. CVPRW 2017. [[code]](https://github.com/thstkdgus35/EDSR-PyTorch)
+4. [Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758). Zhang et al. @{NEU} ECCV 2018. [[code]](https://github.com/yulunzhang/RCAN)
+5. [Residual Dense network for Image Super-Resolution](https://arxiv.org/abs/1802.08797). Zhang et al. @{NEU}. CVPR 2018. [[code]](https://github.com/yulunzhang/RDN)
+6. [Deep back-Projection Networks for Super-Resolution](https://openaccess.thecvf.com/content_cvpr_2018/papers/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.pdf). Haris et al. @{toyota-ti} CVPR 2018. [[code]](https://github.com/alterzero/DBPN-Pytorch)
+7. [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802). Ledig et al. @{Twitter}. CVPR 2017. [[code]](https://github.com/tensorlayer/srgan)
+8. [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219). Wang et al. @{CUHK}. ECCVW 2018. [[code]](https://github.com/xinntao/ESRGAN)
+9. 
 
 
 ## Extreme SISR 
